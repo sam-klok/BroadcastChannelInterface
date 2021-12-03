@@ -1,5 +1,5 @@
 If we need to communicate between browser tabs, 
-let's use 
+let's use BroadcastChannel API 
 
 Based on example:
 https://www.digitalocean.com/community/tutorials/js-broadcastchannel-api
